@@ -38,7 +38,7 @@ In addition, a small number of short papers will be selected for an oral present
 
 * All submissions must be in PDF format and should follow the NIPS 2018 format: https://nips.cc/Conferences/2018/PaperInformation/StyleFiles
 * Submissions do not have to be anonymized
-* Please submit your paper no later than TBA using CMT: *Link coming soon.*
+* Please submit your paper no later than TBA using CMT: https://cmt3.research.microsoft.com/MLSYS2018
 
 
 ## Important Dates
